@@ -145,7 +145,6 @@ button {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--dark);
-  padding: 24px 0;
 }
 
 .nav-menu__item .nav-menu__link:hover,
@@ -154,6 +153,8 @@ button {
 }
 
 .nav-menu__link {
+  display: block;
+  padding: 24px 0;
   color: var(--dark);
 }
 
