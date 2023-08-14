@@ -313,14 +313,13 @@ button {
     0px 1px 6px 0px rgba(46, 47, 66, 0.08);
 }
 
-.team__img {
-  margin-bottom: 32px;
+.team__data-wrapper {
+  padding: 32px 0;
 }
 
 .team__text {
   text-align: center;
   letter-spacing: 0.02em;
-  margin-bottom: 32px;
 }
 
 .team__name {
@@ -330,6 +329,7 @@ button {
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  margin-bottom: 8px;
 
   color: var(--dark);
 }
