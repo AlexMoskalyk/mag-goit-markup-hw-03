@@ -217,6 +217,7 @@ button {
   background-color: var(--primary-brand);
   border-radius: 4px;
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+  min-width: 169px;
 }
 
 .hero__btn:hover,
@@ -227,6 +228,10 @@ button {
 .features {
   padding-top: 120px;
   padding-bottom: 120px;
+}
+
+.features__item {
+  width: calc((100% - 72px) / 4);
 }
 
 .features__list {
