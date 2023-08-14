@@ -107,11 +107,11 @@ button {
 .header-container {
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 .nav-menu {
   display: flex;
   align-items: center;
-  padding: 24px 0;
 }
 .nav-menu__logo {
   margin-right: 76px;
@@ -154,6 +154,7 @@ button {
 
 .nav-menu__link {
   color: var(--dark);
+  padding: 24px 0;
 }
 
 .contacts {
