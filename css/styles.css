@@ -314,7 +314,8 @@ button {
 }
 
 .team__data-wrapper {
-  padding: 32px 0;
+  padding-top: 32px;
+  padding-bottom: 32px;
 }
 
 .team__text {
