@@ -107,11 +107,11 @@ button {
 .header-container {
   display: flex;
   justify-content: space-between;
-  padding: 24px 15px;
 }
 .nav-menu {
   display: flex;
   align-items: center;
+  padding: 24px 0;
 }
 .nav-menu__logo {
   margin-right: 76px;
