@@ -376,6 +376,8 @@ button {
 
 .examples__item {
   width: calc((100% - 48px) / 3);
+  border: 1px solid var(--accent);
+  border-top: none;
 }
 
 .examples__list {
@@ -383,8 +385,6 @@ button {
   flex-wrap: wrap;
   column-gap: 24px;
   row-gap: 48px;
-  border: 1px solid var(--accent);
-  border-top: none;
 }
 
 .examples__data {
