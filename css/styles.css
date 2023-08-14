@@ -115,6 +115,7 @@ button {
 }
 .nav-menu__logo {
   margin-right: 76px;
+  display: inline-block;
 
   font-family: Raleway, sans-serif;
   font-size: 18px;
@@ -409,7 +410,7 @@ button {
 
 .footer-container {
   color: var(--light);
-  padding-top: 101px;
+  padding-top: 100px;
   padding-bottom: 100px;
 }
 
