@@ -370,7 +370,7 @@ button {
 .filter__btn:hover,
 .filter__btn:focus,
 .filter__btn:active {
-  color: var(--white-background);
+  color: 1px solid transparent;
   background-color: var(--pressed-state);
 }
 
